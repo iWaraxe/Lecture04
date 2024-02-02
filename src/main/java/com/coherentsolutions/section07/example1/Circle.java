@@ -1,2 +1,9 @@
-package com.coherentsolutions.section07;public class Circle {
+package com.coherentsolutions.section07.example1;
+
+public class Circle extends Shape {
+
+    @Override
+    public void draw() {
+        System.out.println("Drawing a circle");
+    }
 }

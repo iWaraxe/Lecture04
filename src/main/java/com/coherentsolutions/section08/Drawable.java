@@ -1,2 +1,6 @@
-package com.coherentsolutions.section08;public interface Drawable {
+package com.coherentsolutions.section08;
+
+// Interface
+public interface Drawable {
+    void draw();
 }
